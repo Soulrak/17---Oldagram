@@ -90,6 +90,7 @@ body {
 .control-bar img:active {
     opacity: 60%;
     cursor: pointer;
+    filter: sepia(60%);
 }
 
 
